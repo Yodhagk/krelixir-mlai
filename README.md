@@ -135,6 +135,16 @@ cd frontend && npm run build
 # 3. Deploy backend on VPS with PM2
 cd backend && pm2 start server.js --name krelixir-api
 ```
+<img width="1845" height="966" alt="image" src="https://github.com/user-attachments/assets/dec6a28e-a35b-4a02-86d4-81c4e8c7b04e" />
+<img width="1805" height="906" alt="image" src="https://github.com/user-attachments/assets/d0bc91d4-08fb-4ff4-94bf-e95ce7f945d2" />
+<img width="1822" height="762" alt="image" src="https://github.com/user-attachments/assets/91175da2-ab4b-4a7c-84dd-7b204d520d61" />
+<img width="1619" height="670" alt="image" src="https://github.com/user-attachments/assets/e445cfd7-2177-4cca-bc6f-8b418e591501" />
+<img width="1756" height="871" alt="image" src="https://github.com/user-attachments/assets/bd5359d9-f57a-48a5-94a2-194549c0c059" />
+
+
+
+
+
 
 See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for the complete guide including Nginx config, SSL, and environment setup.
 
