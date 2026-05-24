@@ -140,6 +140,11 @@ cd backend && pm2 start server.js --name krelixir-api
 <img width="1822" height="762" alt="image" src="https://github.com/user-attachments/assets/91175da2-ab4b-4a7c-84dd-7b204d520d61" />
 <img width="1619" height="670" alt="image" src="https://github.com/user-attachments/assets/e445cfd7-2177-4cca-bc6f-8b418e591501" />
 <img width="1756" height="871" alt="image" src="https://github.com/user-attachments/assets/bd5359d9-f57a-48a5-94a2-194549c0c059" />
+<img width="1911" height="900" alt="image" src="https://github.com/user-attachments/assets/0deb75ea-178f-4fcb-9b2c-8ca6d4ac22c2" />
+<img width="1865" height="871" alt="image" src="https://github.com/user-attachments/assets/71c8e384-55fa-497a-b621-64de000ab7b8" />
+
+
+
 
 
 
